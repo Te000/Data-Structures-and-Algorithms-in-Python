@@ -8,9 +8,10 @@ Attempt on all the questions of ***the Data Structures and Algorithms in Python*
 |Chapter|Notebook|
 |---|---|
 |Chapter 01|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch1/Chap_01.ipynb)|
-|Chapter 02|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch1/Chap_02.ipynb)|
-|Chapter 03|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch1/Chap_03.ipynb)|
-|Chapter 04|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch1/Chap_04.ipynb)|
+|Chapter 02|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch2/Chap_02.ipynb)|
+|Chapter 03|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch3/Chap_03.ipynb)|
+|Chapter 04|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch4/Chap_04.ipynb)|
+|Chapter 05|[Notebook](https://nbviewer.jupyter.org/github/Te000/Data-Structures-and-Algorithms-in-Python/blob/master/ch5/Chap_05.ipynb)|
 
 Format of Repo taken from [here](https://github.com/jihoonerd/Data_Structures_and_Algorithms_in_Python)
 
